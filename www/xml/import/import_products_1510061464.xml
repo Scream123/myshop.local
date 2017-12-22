@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+
+    <product>
+
+        <category_id>3</category_id>
+        <name>import_GT-C3560</name>
+        <description>                                                &lt;p&gt;Закругленные углы и окантовка вносят
+            стильный штрих в минималистичный дизайн телефона. Металлическая отделка смотрится элегантно и современно. А
+            благодаря небольшим размерам С3560 удобно лежит в руке и легко помещается в кармане.&lt;/p&gt;
+            &lt;br /&gt;
+
+            &lt;p&gt;Спецификации:&lt;/p&gt;
+            &lt;ul&gt;&lt;li&gt;Стандарты сети GSM и EDGE : GSM (850/900/1800/1900)&lt;/li&gt;&lt;li&gt;Стандарт сети 3G
+            : N/A&lt;/li&gt;&lt;li&gt;Стандарт сети CDMA : N/A&lt;/li&gt;&lt;li&gt;TD-SCDMA Band : N/A&lt;/li&gt;&lt;/ul&gt;
+
+        </description>
+        <price>3000</price>
+        <image>1.png</image>
+        <status>1</status>
+    </product>
+
+    <product>
+
+        <category_id>3</category_id>
+        <name>import_S5570 Galaxy mini</name>
+        <description>Платформа
+            850/900/1800/1900 МГц
+            Диапазон 900/2100 МГц
+            Android 2.2 OS
+            Интернет браузер (Android Browser)
+            Физические характеристики
+            Вес трубки 106,6 г.
+            Размеры трубки: 110,4 x 60,6 x 12,1 мм
+        </description>
+        <price>7000</price>
+        <image>2.png</image>
+        <status>0</status>
+    </product>
+
+
+</products>
